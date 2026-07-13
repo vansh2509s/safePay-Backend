@@ -270,10 +270,7 @@ View Transaction History
 Java Backend Developer
 
 GitHub:
-https://github.com/YOUR_USERNAME
-
-LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
+https://github.com/vansh2509s
 
 ---
 
